@@ -13,7 +13,7 @@
     "next-env.d.ts",
     "next.config.js",
     ".next/types/**/*.ts"
-  ],
+, "../../packages/comp/server.tsx", "../../packages/comp/client.tsx"  ],
   "exclude": [
     "node_modules"
   ]
